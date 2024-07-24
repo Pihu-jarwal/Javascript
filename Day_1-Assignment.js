@@ -11,7 +11,7 @@ console.log(typeof(b+c))
 
 //Can you change it to hold a number later
 const obj ={
-    "herry" : 4,
+    "herry" : 6,
 
 }
 obj ="o"
