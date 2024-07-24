@@ -1,4 +1,4 @@
-// variable f type String and add a number
+// variable  type String and add a number
 
 let b = "4"
 let c = 6;
@@ -14,4 +14,6 @@ const obj ={
     "herry" : 2,
 
 }
-obj ="o"
+console.log(obj)
+obj["test"] = "test1"
+console.log(obj.test)
