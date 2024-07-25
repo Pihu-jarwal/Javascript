@@ -1,0 +1,7 @@
+//Write a loop that prints numbers from 10 to 1 using a while loop.
+let c =10
+console.log("prints numbers from 10 to 1");
+ while(c >0){
+    console.log(c);
+    c--;
+ }
